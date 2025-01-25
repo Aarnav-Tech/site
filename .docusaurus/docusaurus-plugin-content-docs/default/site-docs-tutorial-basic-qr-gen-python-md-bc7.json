@@ -1,0 +1,19 @@
+{
+  "id": "tutorial-basic/QrGen Python",
+  "title": "QrCode Generator Made Using Python",
+  "description": "Repository Overview :-",
+  "source": "@site/docs/tutorial-basic/QrGen Python.md",
+  "sourceDirName": "tutorial-basic",
+  "slug": "/tutorial-basic/QrGen Python",
+  "permalink": "/tutorial-basic/QrGen Python",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "LineGraph Maker",
+    "permalink": "/tutorial-basic/LineGraph Gen Python"
+  }
+}

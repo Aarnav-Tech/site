@@ -1,0 +1,23 @@
+{
+  "id": "other-comps/1compinfo",
+  "title": "Read me!!",
+  "description": "- ### By compiled, I mean i have just built the app for windows.",
+  "source": "@site/docs/other-comps/1compinfo.md",
+  "sourceDirName": "other-comps",
+  "slug": "/other-comps/1compinfo",
+  "permalink": "/other-comps/1compinfo",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "QrCode Generator Made Using Python",
+    "permalink": "/tutorial-basic/qgp"
+  },
+  "next": {
+    "title": "WinUtil",
+    "permalink": "/other-comps/winutils"
+  }
+}

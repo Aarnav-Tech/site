@@ -1,0 +1,23 @@
+{
+  "id": "tutorial-basic/lggp",
+  "title": "LineGraph Maker",
+  "description": "This program makes line graphs that you can download too!.",
+  "source": "@site/docs/tutorial-basic/lggp.md",
+  "sourceDirName": "tutorial-basic",
+  "slug": "/tutorial-basic/lggp",
+  "permalink": "/tutorial-basic/lggp",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "About Me",
+    "permalink": "/"
+  },
+  "next": {
+    "title": "QrCode Generator Made Using Python",
+    "permalink": "/tutorial-basic/qgp"
+  }
+}

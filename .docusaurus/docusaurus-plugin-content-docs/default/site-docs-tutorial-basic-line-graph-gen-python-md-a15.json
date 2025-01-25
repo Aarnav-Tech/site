@@ -1,0 +1,23 @@
+{
+  "id": "tutorial-basic/LineGraph Gen Python",
+  "title": "LineGraph Maker",
+  "description": "This program makes line graphs that you can download too!.",
+  "source": "@site/docs/tutorial-basic/LineGraph Gen Python.md",
+  "sourceDirName": "tutorial-basic",
+  "slug": "/tutorial-basic/LineGraph Gen Python",
+  "permalink": "/tutorial-basic/LineGraph Gen Python",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "My Lame Python Projects!",
+    "permalink": "/category/my-lame-python-projects"
+  },
+  "next": {
+    "title": "QrCode Generator Made Using Python",
+    "permalink": "/tutorial-basic/QrGen Python"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "other-comps/zed",
+  "title": "Zed Code Editor",
+  "description": "Zed is a high-performance multiplayer code editor designed for collaborative coding experiences. Built by the creators of Atom and Tree-sitter, Zed aims to revolutionize the way developers work together in real-time.",
+  "source": "@site/docs/other-comps/zed.md",
+  "sourceDirName": "other-comps",
+  "slug": "/other-comps/zed",
+  "permalink": "/other-comps/zed",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "WinUtil",
+    "permalink": "/other-comps/winutils"
+  }
+}

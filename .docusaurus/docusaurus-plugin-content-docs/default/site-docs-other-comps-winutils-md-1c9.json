@@ -1,0 +1,23 @@
+{
+  "id": "other-comps/winutils",
+  "title": "WinUtil",
+  "description": "Overview",
+  "source": "@site/docs/other-comps/winutils.md",
+  "sourceDirName": "other-comps",
+  "slug": "/other-comps/winutils",
+  "permalink": "/other-comps/winutils",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Read me!!",
+    "permalink": "/other-comps/1compinfo"
+  },
+  "next": {
+    "title": "Zed Code Editor",
+    "permalink": "/other-comps/zed"
+  }
+}

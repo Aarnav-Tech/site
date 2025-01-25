@@ -1,0 +1,19 @@
+{
+  "id": "sci/bio",
+  "title": "Biology Notes",
+  "description": "Here you will find numerous notes for biology.",
+  "source": "@site/docs/sci/bio.md",
+  "sourceDirName": "sci",
+  "slug": "/sci/bio",
+  "permalink": "/sci/bio",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "notesSidebar",
+  "previous": {
+    "title": "Chemistry Notes",
+    "permalink": "/sci/chem"
+  }
+}
